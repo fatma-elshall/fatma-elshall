@@ -9,36 +9,39 @@ I thrive on solving business problems through data, and I'm constantly exploring
 
 ---
 
-#  Skills
+##  Skills
 
-- 📊 **Excel** – Advanced functions, dashboards, pivot tables, Power Query
-- 🐍 **Python** – Pandas, NumPy, Matplotlib, Seaborn
-- 🗃️ **SQL** – Data extraction, joins, filtering, data cleaning
-- 📈 **Tableau / Power BI /Google Looker Studio** – Dashboard creation & insight communication
-- 🧼 **Data Profiling & Cleaning** – Handling missing values, outliers, duplicates
-- 📝 **Documentation & Reporting** – Clear business-focused insights
+-  **Excel** – Advanced functions, dashboards, pivot tables, Power Query
+-  **Python** – Pandas, NumPy, Matplotlib, Seaborn
+-  **SQL** – Data extraction, joins, filtering, data cleaning
+-  **Tableau / Power BI /Google Looker Studio** – Dashboard creation & insight communication
+-  **Data Profiling & Cleaning** – Handling missing values, outliers, duplicates
+-  **Documentation & Reporting** – Clear business-focused insights
 
 ---
 
-#  Experience
+##  Experience
 
-#  Freelance Data Analyst
+###  Freelance Data Analyst
 • Conducted data analysis and visualization projects for clients, optimizing
 decision-making and business strategies.
+
 • Developed automated reports using Excel , Tableau and Python, reducing
 manual reporting time by 30%.
+
 • Performed data cleaning, transformation, and modeling, improving data
 accuracy and insights extraction.
+
 • Created interactive dashboards to stakeholders for strategic decision making.
 
-#  Data Analyst Intern – Digital Egypt Pioneers Initiative (DEPI)
+###  Data Analyst Intern – Digital Egypt Pioneers Initiative (DEPI)
 - Conducted in-depth data analysis using Excel, SQL, Python and Tableau.
 - Delivered business-ready dashboards and actionable insights.
 - Collaborated in a team environment with continuous feedback and iteration.
 
 ---
 
-#  Projects:
+##  Projects:
 
 ### 🛒 Superstore Sales Analysis  
 **Tools Used:** SQL , Python and Tableau 
