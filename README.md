@@ -101,8 +101,7 @@ Al-Azhar University, Egypt
 
 -  Email: fatmaelshal24@gmail.com
 -  LinkedIn: [[linkedin.com/in/fatma-elshall](https://linkedin.com/in/fatma-elshall)  ](https://www.linkedin.com/in/fatma-elshall/)
-- Work profiles: https://mostaql.com/u/Fatma_Elshall
-- Upwork: https://www.upwork.com/freelancers/~01e0ad021e9ab672de
+
 
 ---
 
