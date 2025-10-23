@@ -3,15 +3,13 @@
  I'm a **Data-driven Analyst** with a background in Communication Engineering and a strong passion for turning raw data into actionable insights. Through hands-on projects and real-world applications, I've developed expertise in Excel , Google Loooker studio , Tableau and seamless data transformations via Power Query and Python.
 Through dynamic dashboards, interactive visuals, and advanced charting, I help businesses visualize trends, customer behavior, and performance metrics with clarity and impact.
 
-I combine Power Query and Python to clean, transform, and integrate data from multiple sources, creating a solid foundation for meaningful analysis.
-
-I thrive on solving business problems through data, and I'm constantly exploring new tools and techniques to sharpen my skills in analytics, data quality, and storytelling.
 
 ---
 
 ##  Skills
 
--  **Excel** – Advanced functions, dashboards, pivot tables, Power Query
+-  **Excel** – Advanced functions, dashboards, pivot tables
+-   **Power Query** –  clean, transform, and integrate data from multiple sources.
 -  **Python** – Pandas, NumPy, Matplotlib, Seaborn
 -  **SQL** – Data extraction, joins, filtering, data cleaning
 -  **Tableau / Power BI /Google Looker Studio** – Dashboard creation & insight communication
@@ -23,10 +21,13 @@ I thrive on solving business problems through data, and I'm constantly exploring
 ##  Experience
 
 ###  Freelance Data Analyst
+• Collaborated with Leading companies and  governmental organizations like :Aramco, GOSI (Saudi Arabia), the Ministry of Defense,Al Nahdi Pharmacies and Bashaer Dawah Assosiation..
+•  Delivered integrated analytical systems that help organizations track performance, automate reporting, and make data-driven decisions.
+
 • Conducted data analysis and visualization projects for clients, optimizing
 decision-making and business strategies.
 
-• Developed automated reports using Excel , Tableau and Python, reducing
+• Developed automated reports using Excel , Google sheets and Looker Studio , reducing
 manual reporting time by 30%.
 
 • Performed data cleaning, transformation, and modeling, improving data
@@ -86,6 +87,8 @@ Conducted a churn analysis for a telecom company to identify the key factors beh
 **project Link** https://github.com/fatma-elshall/Telecom-Customer-Churn-Analysis
 
 **Tableau Public** https://public.tableau.com/views/Telecomcustomerchurnanalysisdashboard1/recommendations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 
 ---
 
