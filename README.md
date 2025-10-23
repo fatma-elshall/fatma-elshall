@@ -22,6 +22,7 @@ Through dynamic dashboards, interactive visuals, and advanced charting, I help b
 
 ###  Freelance Data Analyst
 • Collaborated with Leading companies and  governmental organizations like :Aramco, GOSI (Saudi Arabia), the Ministry of Defense,Al Nahdi Pharmacies and Bashaer Dawah Assosiation..
+
 •  Delivered integrated analytical systems that help organizations track performance, automate reporting, and make data-driven decisions.
 
 • Conducted data analysis and visualization projects for clients, optimizing
