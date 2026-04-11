@@ -69,11 +69,11 @@ Designed a comprehensive Excel dashboard to analyze call center performance metr
 
 ---
 
-### 📦 Amazon Sales Analysis  
-**Tools Used:** Excel
-Cleaned and transformed over 128,000 rows of Amazon sales data to analyze performance by category, SKU, fulfillment type, and region. Identified patterns in order volume, B2B vs B2C behavior, and delivery issues. Produced Excel reports that aided in operational improvement strategies.
+### Stock Market Analysis
+**Tools Used:** Python , google sheets , Tableau
+A data-driven approach designed specifically for investors, the system bridges the gap between raw market data and actionable financial intelligence. Designed specifically for investors, the system bridges the gap between raw market data and actionable financial intelligence.
 
-**project Link** https://github.com/fatma-elshall/Amazon-sales-dashboard
+**project Link** https://github.com/fatma-elshall/Stock-Market-Analysis
 
 ---
 
