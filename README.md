@@ -1,7 +1,12 @@
 
 # About Me:
- I'm a **Data-driven Analyst** with a background in Communication Engineering and a strong passion for turning raw data into actionable insights. Through hands-on projects and real-world applications, I've developed expertise in Excel , Google Loooker studio , Tableau and seamless data transformations via Power Query and Python.
-Through dynamic dashboards, interactive visuals, and advanced charting, I help businesses visualize trends, customer behavior, and performance metrics with clarity and impact.
+ I specialize in **Data Analysis** and **Business Intelligence**.
+
+I help business owners and organizations transforming scattered numbers and row data into structured insights, automated reports, dynamic dashboards, and recommendations that support their decision making , improve performance, and save their time through smart automation.
+
+- Across +15 freelance projects I helped clients save over **40%** of their time by **automating reporting** ,Dashboards and Data workflow ,  Collaborated with leading companies and different businesses  like **AL-Nahdy** , **GOSI** and **Saudi Military hospitalِ**
+
+I am always eager to enhance my skills and gain new experiences to create more value through data-driven insights.
 
 
 ---
@@ -12,16 +17,17 @@ Through dynamic dashboards, interactive visuals, and advanced charting, I help b
 -   **Power Query** –  clean, transform, and integrate data from multiple sources.
 -  **Python** – Pandas, NumPy, Matplotlib, Seaborn
 -  **SQL** – Data extraction, joins, filtering, data cleaning
--  **Tableau / Power BI /Google Looker Studio** – Dashboard creation & insight communication
+-  **Tableau /Google Looker Studio** – Dashboard creation & insight communication
 -  **Data Profiling & Cleaning** – Handling missing values, outliers, duplicates
 -  **Documentation & Reporting** – Clear business-focused insights
+-  **Problem Solving**
+  
 
 ---
 
 ##  Experience
 
 ###  Freelance Data Analyst
-• Collaborated with Leading companies and  governmental organizations like :Aramco, GOSI (Saudi Arabia), the Ministry of Defense,Al Nahdi Pharmacies and Bashaer Dawah Assosiation..
 
 •  Delivered integrated analytical systems that help organizations track performance, automate reporting, and make data-driven decisions.
 
