@@ -75,6 +75,7 @@ Designed a comprehensive Excel dashboard to analyze call center performance metr
 A data-driven approach designed specifically for investors, the system bridges the gap between raw market data and actionable financial intelligence. Designed specifically for investors, the system bridges the gap between raw market data and actionable financial intelligence.
 
 **project Link** https://github.com/fatma-elshall/Stock-Market-Analysis
+**Dashboard Link in Tableau Public:https://public.tableau.com/app/profile/fatma.elshall/viz/saudi-stockMarket-analysis111/Technicalanalysis
 
 ---
 
