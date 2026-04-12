@@ -112,7 +112,7 @@ Al-Azhar University, Cairo , Egypt
 ## Contact Me
 
 -  Email: fatmaelshal24@gmail.com
--  LinkedIn: [[linkedin.com/in/fatma-elshall](https://linkedin.com/in/fatma-elshall)  ](https://www.linkedin.com/in/fatma-elshall/)
+-  LinkedIn: https://www.linkedin.com/in/fatma-elshall/
 
 
 ---
