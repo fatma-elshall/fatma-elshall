@@ -15,6 +15,7 @@ I am always eager to enhance my skills and gain new experiences to create more v
 
 -  **Excel** – Advanced functions, dashboards, pivot tables
 -   **Power Query** –  clean, transform, and integrate data from multiple sources.
+-   **Google sheets**
 -  **Python** – Pandas, NumPy, Matplotlib, Seaborn
 -  **SQL** – Data extraction, joins, filtering, data cleaning
 -  **Tableau /Google Looker Studio** – Dashboard creation & insight communication
@@ -77,13 +78,13 @@ A data-driven approach designed specifically for investors, the system bridges t
 
 ---
 
-### 🛍️ E-commerce Consumer Behavior Analysis  
-**Tools Used:** Google sheets, Google Looker Studio 
-Explored purchasing patterns in an e-commerce dataset to understand customer behavior by product type, seasonality, and repeat purchases. Performed interactive dashboard using Looker Studio to help improve targeting and retention strategies.
+### 🛍️ GA4-Ecommerce Insights dashboard  
+**Tools Used:** GA4, Google Looker Studio 
+ Transformed Complex Data in GA4 into Actionable Business Insights in Looker studio dashboard that support business owners and CEOs. A high-level E-commerce dashboard designed for store owners who need answers, not just data. It tracks the complete customer journey—from the first visit to the final purchase—visualizing revenue leaks and identifying growth opportunities in a simplified layout.
 
-**project Link** https://github.com/fatma-elshall/Ecommerce-Consumer-Behavior-Analysis
+**project Link** https://github.com/fatma-elshall/GA4--Ecommerce-Insights-Dashboard
 
-**Dashboard link in Google Looker Studio**: https://lookerstudio.google.com/reporting/aae6147f-c6c3-4e0f-a3cb-6fb3ccef1bc4
+**Dashboard link in Google Looker Studio**: https://lookerstudio.google.com/u/0/reporting/6f72a118-656b-411c-9536-be1941e16002/page/iCjqF
 
 ---
 
@@ -102,7 +103,7 @@ Conducted a churn analysis for a telecom company to identify the key factors beh
 ## 🎓 Education
 
 **Bachelor’s Degree in Communications Engineering**  
-Al-Azhar University, Egypt  
+Al-Azhar University, Cairo , Egypt  
 
 
 ---
