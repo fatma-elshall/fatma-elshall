@@ -4,9 +4,9 @@
 
 I help business owners and organizations transforming scattered numbers and row data into structured insights, automated reports, dynamic dashboards, and recommendations that support their decision making , improve performance, and save their time through smart automation.
 
-- Across +15 freelance projects I helped clients save over **40%** of their time by **automating reporting** ,Dashboards and Data workflow ,  Collaborated with leading companies and different businesses  like **AL-Nahdy** , **GOSI** and **Saudi Military hospitalِ**
+- Across +20 freelance projects I helped clients save over **60%** of their time by **automating reporting** ,Dashboards and Data workflow ,  Collaborated with leading companies and different businesses  like **AL-Nahdy** , **GOSI** and **Saudi Military hospitalِ**
 
-I am always eager to enhance my skills and gain new experiences to create more value through data-driven insights.
+-If your data feels overwhelming or unclear, I’d be happy to help you simplify it, let's connect and start working. 
 
 
 ---
@@ -16,9 +16,9 @@ I am always eager to enhance my skills and gain new experiences to create more v
 -  **Excel** – Advanced functions, dashboards, pivot tables
 -   **Power Query** –  clean, transform, and integrate data from multiple sources.
 -   **Google sheets**
--  **Python** – Pandas, NumPy, Matplotlib, Seaborn
+-  **Tableau /Google Looker Studio /Power BI** – Dashboard creation & insight communication
+-   **Python** – Pandas, NumPy, Matplotlib, Seaborn
 -  **SQL** – Data extraction, joins, filtering, data cleaning
--  **Tableau /Google Looker Studio** – Dashboard creation & insight communication
 -  **Data Profiling & Cleaning** – Handling missing values, outliers, duplicates
 -  **Documentation & Reporting** – Clear business-focused insights
 -  **Problem Solving**
@@ -62,11 +62,12 @@ Analyzed sales data from a US-based superstore to identify trends across regions
   
 ---
 
-### 📞 Call Center Data Analysis  
-**Tools Used:** Excel  
-Designed a comprehensive Excel dashboard to analyze call center performance metrics, such as average handling time, resolution rate, and peak hours. Helped improve customer response efficiency by identifying bottlenecks, leading to a **20% reduction in average wait time**.
+### GA4-Ecommerce Insights Dashboard 
+**Tools Used:** GA4 , Looker Studio (Data studio)  
+Transformed complex GA4 data into Clear insights inside Looker Studio dashboard, **saving store owners over 40%** of their time by replacing technical noise with a single source of truth for revenue and marketing ROI.
 
-**project Link** https://github.com/fatma-elshall/Call-center-data-analysis
+**project Link** https://github.com/fatma-elshall/GA4--Ecommerce-Insights-Dashboard
+**Dashboard Link on Data Studio: https://datastudio.google.com/s/p2xOkyD0jig
 
 ---
 
@@ -79,13 +80,13 @@ A data-driven approach designed specifically for investors, the system bridges t
 
 ---
 
-### 🛍️ GA4-Ecommerce Insights dashboard  
-**Tools Used:** GA4, Google Looker Studio 
- Transformed Complex Data in GA4 into Actionable Business Insights in Looker studio dashboard that support business owners and CEOs. A high-level E-commerce dashboard designed for store owners who need answers, not just data. It tracks the complete customer journey—from the first visit to the final purchase—visualizing revenue leaks and identifying growth opportunities in a simplified layout.
+###  Executive-Business-Performance-Dashboard 
+**Tools Used:** SQL , Power BI 
+End-to-End Power BI & SQL solution that consolidates fragmented sales data into a centralized executive dashboard. It eliminates hours of manual multi-report analysis, enabling stakeholders to instantly track overall business health, optimize product profitability, and identify growth drivers in minutes.
 
-**project Link** https://github.com/fatma-elshall/GA4--Ecommerce-Insights-Dashboard
+**project Link** [https://github.com/fatma-elshall/GA4--Ecommerce-Insights-Dashboard](https://github.com/fatma-elshall/Executive-Business-Performance-Dashboard)
 
-**Dashboard link in Google Looker Studio**: https://lookerstudio.google.com/u/0/reporting/6f72a118-656b-411c-9536-be1941e16002/page/iCjqF
+**Dashboard link in Power BI service**:  https://app.powerbi.com/view?r=eyJrIjoiMGM5ZWZiNmEtNGJjYS00ZjA0LWIwYjktMjU3Zjc3MjNkOGFjIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9
 
 ---
 
@@ -103,7 +104,7 @@ Conducted a churn analysis for a telecom company to identify the key factors beh
 
 ## 🎓 Education
 
-**Bachelor’s Degree in Communications Engineering**  
+**Bachelor’s Degree in Electronics and Communication Engineering**  
 Al-Azhar University, Cairo , Egypt  
 
 
@@ -113,8 +114,8 @@ Al-Azhar University, Cairo , Egypt
 
 -  Email: fatmaelshal24@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/fatma-elshall/
-
-
+-  Whatsapp: https://wa.me/201001831061
+   
 ---
 
 🚀 *Always open to collaborating on meaningful data projects or freelance opportunities!*
