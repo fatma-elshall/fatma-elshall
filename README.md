@@ -54,6 +54,7 @@ accuracy and insights extraction.
 
 ### 🛒 Superstore Sales Analysis  
 **Tools Used:** SQL , Python and Tableau 
+
 Analyzed sales data from a US-based superstore to identify trends across regions, categories, and customer segments. Built an interactive Tableau dashboard that revealed underperforming areas and top-selling products. The insights supported strategic decisions in inventory and marketing efforts.
 
  **project Link** https://github.com/fatma-elshall/DEPI_gradution_project
@@ -63,7 +64,8 @@ Analyzed sales data from a US-based superstore to identify trends across regions
 ---
 
 ### GA4-Ecommerce Insights Dashboard 
-**Tools Used:** GA4 , Looker Studio (Data studio)  
+**Tools Used:** GA4 , Looker Studio (Data studio) 
+
 Transformed complex GA4 data into Clear insights inside Looker Studio dashboard, **saving store owners over 40%** of their time by replacing technical noise with a single source of truth for revenue and marketing ROI.
 
 **project Link** https://github.com/fatma-elshall/GA4--Ecommerce-Insights-Dashboard
@@ -73,6 +75,7 @@ Transformed complex GA4 data into Clear insights inside Looker Studio dashboard,
 
 ### Stock Market Analysis
 **Tools Used:** Python , google sheets , Tableau
+
 A data-driven approach designed specifically for investors, the system bridges the gap between raw market data and actionable financial intelligence. Designed specifically for investors, the system bridges the gap between raw market data and actionable financial intelligence.
 
 **project Link** https://github.com/fatma-elshall/Stock-Market-Analysis
@@ -82,6 +85,7 @@ A data-driven approach designed specifically for investors, the system bridges t
 
 ###  Executive-Business-Performance-Dashboard 
 **Tools Used:** SQL , Power BI 
+
 End-to-End Power BI & SQL solution that consolidates fragmented sales data into a centralized executive dashboard. It eliminates hours of manual multi-report analysis, enabling stakeholders to instantly track overall business health, optimize product profitability, and identify growth drivers in minutes.
 
 **project Link** [https://github.com/fatma-elshall/GA4--Ecommerce-Insights-Dashboard](https://github.com/fatma-elshall/Executive-Business-Performance-Dashboard)
